@@ -1,0 +1,186 @@
+/*
+mauve = 76414a
+*/
+
+
+.radio_label {
+	margin-right: 8px;
+	 display:inline-block;
+}
+
+
+input[type="button"].btn_fi {
+	background: #3d3333;
+	border:none;
+	color: #ffffff;
+	font-size: 20px;
+	padding: 0px 14px;
+	height: 40px;
+	letter-spacing: -.04em;
+	margin-top: 16px;
+	margin-left: 0px;
+}
+
+
+input[type="file"].btn_up {
+	background: #fff;
+	border-bottom: #3d3333 solid 1px;
+	color: #3d3333;
+	font-size: 20px;
+	padding: 0px 0px;
+	height: 32px;
+	letter-spacing: -.04em;
+	margin-top: 12px;
+	margin-left: 0px;
+}
+
+input[type="submit"].btn_alt {
+	background: #666;
+	border:none;
+	color: #ffffff;
+	font-size: 16px;
+	padding: 0px 8px;
+	height: 32px;
+	letter-spacing: -.04em;
+	margin-top: 26px;
+	margin-left: 0px;
+}
+
+input[type="button"].btn_fi_add {
+	background: #3d3333;
+	border:none;
+	color: #ffffff;
+	font-size: 16px;
+	padding: 0px 14px;
+	height: 40px;
+	letter-spacing: -.04em;
+	margin-top: 26px;
+	float: left;
+	display: inline;
+}
+
+input[type="button"].btn_fi_save {
+	background: #3d3333;
+	border:none;
+	color: #ffffff;
+	font-size: 20px;
+	padding: 0px 14px;
+	height: 40px;
+	letter-spacing: -.04em;
+	margin-top: 12px;
+	float: right;
+	display: inline;
+}
+
+
+
+input[type="button"].btn_sub {
+	background: #76414a;
+	border:none;
+	color: #ffffff;
+	font-size: 16px;
+	padding: 0px 14px;
+	height: 40px;
+	letter-spacing: -.04em;
+	margin: 12px auto 0px auto;
+
+}
+
+.welcome_label {
+	
+}
+
+
+
+div.pagination {
+	padding: 3px;
+	margin: 3px;
+}
+
+div.pagination_text {
+	font-size: 16px;
+	margin-bottom: 20px;
+}
+
+
+div.pagination a {
+	padding: 2px 5px 2px 5px;
+	margin: 2px;
+	border: 1px solid #CCC;
+	
+	text-decoration: none; /* no underline */
+	color:#999;
+}
+div.pagination a:hover, div.pagination a:active {
+	border: 1px solid #3d3333;
+
+	color: #000;
+}
+div.pagination span.current {
+	padding: 2px 5px 2px 5px;
+	margin: 2px;
+	border: 1px solid #3d3333;
+	
+	font-weight: bold;
+	background-color: #3d3333;
+	color: #FFF;
+}
+div.pagination span.disabled {
+	padding: 2px 5px 2px 5px;
+	margin: 2px;
+	border: 1px solid #EEE;
+
+	color: #DDD;
+}
+
+div.pagination_wrapper {
+	margin: 0px 0 20px 0; 
+	text-align:right;
+}
+
+.sm_txt {
+	font-weight:normal;
+	color: #999;
+	
+}
+
+.rates_chart {
+	width: 100%;
+	
+}
+
+th.rates_chart {
+	background: #333;
+	color: #CCC;
+	text-align:center;
+	
+}
+
+td.rates_chart {
+	background: #000;
+	color: #CCC;
+	text-align:center;
+	border: #fff solid 1px;
+	
+}
+
+#offer_table tr td {
+	font-size: 11px;
+	
+}
+#offer_table thead th {
+	font-size: 11px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
